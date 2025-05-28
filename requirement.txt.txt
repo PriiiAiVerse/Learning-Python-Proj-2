@@ -1,0 +1,8 @@
+#Install the required Python libraries:
+
+#for chess 
+pip install matplotlib numpy
+
+#for spelling_check
+pip install textblob
+python -m textblob.download_corpora
